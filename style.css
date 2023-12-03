@@ -1,0 +1,90 @@
+*{padding: 2px;
+  margin:0px;
+
+  
+}
+
+.navbar {
+  background-color:white;
+  
+
+
+}
+.navbar ul {
+  overflow: auto;
+  padding: 0;
+  margin: 0;
+  
+  
+  
+}
+.navbar li {
+  float: left;
+  list-style: none;
+  margin: 13px 20px;
+}
+.navbar li a {
+  padding: 0;
+  color: black;
+  margin: 0;
+  
+}
+.button {
+  border: none;
+  color: black;
+  padding: 15px;
+  text-align: center;
+  font-size: 20px;
+  cursor: pointer;
+  border-radius: 30px;
+}
+.button {
+  background-color: #4fe559;
+  font-family: sansation;
+  box-shadow: 2px 4px;
+  text-align: right;
+}
+.para2 {
+  font-family: "Ephesis", cursive;
+}
+.para1 {
+  font-family: "Ephesis", cursive;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto Condensed", sans-serif;
+}
+h1 {
+    font-family: 'Ephesis', cursive;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Merriweather', serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Vina Sans', sans-serif;
+  margin: 9px;
+  padding: 5px;
+  text-shadow: 2px 2px #868080;
+  font-size:88px;
+}
+h2{
+    
+  text-shadow: 1px 1px #868080;
+  margin:8px;
+}
+.img1{
+    margin-left: 200px;
+    margin-top:60px;
+}
+.img2{
+    margin-top: 60px;
+    margin-right: 180;
+    text-shadow: 10px 10px #868080;
+    border: #868080;
+}
+.content{
+    background-color: rgb(232, 218, 198);
+    
+}
+
+
+    
